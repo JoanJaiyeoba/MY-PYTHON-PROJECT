@@ -1,0 +1,3 @@
+I'm toye.
+I studied data analysis.
+My specialty is Python.

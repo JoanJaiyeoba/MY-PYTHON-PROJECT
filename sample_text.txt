@@ -1,0 +1,15 @@
+NAME:   Erwinia carotovora atroseptica
+Strain: LMG 2386
+Pheno:  0251034201
+Name:   Erwinia carotovora carotovora
+Strain: LMG 2404
+Pheno:  0251034204
+Name:   Erwinia betavasculorum
+Strain: LMG 2466
+Pheno:  0251034202
+Name:   Erwinia chrysanthemi
+Strain: LMG 2804
+Pheno:  0253035205
+Name:   Erwinia cypripedii
+Strain: LMG 2657
+Pheno:  0051311301
